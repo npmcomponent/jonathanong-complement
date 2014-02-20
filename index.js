@@ -1,10 +1,10 @@
 /* jshint browser: true */
 
-var domify = require('domify')
-var tap = require('tap-event')
-var clickable = require('clickable')
+var domify = require('component-domify')
+var tap = require('component-tap-event')
+var clickable = require('component-clickable')
 
-require('emitter')(exports)
+require('component-emitter')(exports)
 
 /**
  * Hide the menu when losing focus,

@@ -1,0 +1,12 @@
+{
+  "name": "jonathanong-complement",
+  "description": "shared methods for autocomplete and textcomplete",
+  "version": "0.0.2",
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-tap-event": "git://github.com/npmcomponent/component-tap-event.git",
+    "component-clickable": "git://github.com/npmcomponent/component-clickable.git"
+  },
+  "license": "MIT"
+}
